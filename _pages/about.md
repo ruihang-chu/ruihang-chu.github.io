@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am Ruihang Chu (储瑞航).
 
-I am a Research Scientist at the Alibaba Wan Team via the "AliStar" talent program. I also hold a joint postdoctoral position at Tsinghua University, supervised by [Prof. Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). I received my Ph.D. degree from CUHK, supervised by [Prof. Jiaya Jia](https://jiaya.me/home) and [Prof. Chi-Wing FU](http://www.cse.cuhk.edu.hk/~cwfu/). During my Ph.D.stage, I had the pleasure of working with [Prof. Xiaojuan Qi](https://xjqi.github.io/).
+I am a Research Scientist at the Alibaba Wan Team via the "AliStar" talent program. I also hold a joint postdoctoral position at Tsinghua University, supervised by [Prof. Yujiu Yang](https://scholar.google.com/citations?user=4gH3sxsAAAAJ&hl=zh-CN). I received my Ph.D. degree from CUHK, supervised by [Prof. Jiaya Jia](https://jiaya.me/home) and [Prof. Chi-Wing FU](http://www.cse.cuhk.edu.hk/~cwfu/). During my Ph.D. stage, I had the pleasure of working with [Prof. Xiaojuan Qi](https://xjqi.github.io/).
 
 I work on Generative AI and Computer Vision. My long-term goal is to **enable models to simulate and reason about the visual world**. Now I focus on two key directions:
 - 🎬 **Video generation**: Pre- and post-training of foundation models, native multimodal architecture, controllable generation, and AR models.
@@ -46,8 +46,8 @@ If you are interested in collaboration, feel free to drop me an email.
         <li> [2025/12] &nbsp; <strong><a href="https://huggingface.co/papers/2512.08765">Wan-Move</a></strong> tops Hugging Face Weekly Papers (Dec 7–13)!</li>
         <li> [2025/12] &nbsp; <strong><a href="https://arxiv.org/abs/2403.18814">Mini-Gemini</a></strong> is accepted to T-PAMI!</li>
         <li> [2025/11] &nbsp; <strong><a href="https://arxiv.org/abs/2509.01596">O-DisCo-Edit</a></strong> is accepted to AAAI 2026 as Oral!</li>
-        <li> [2025/09] &nbsp; <strong><a href="https://www.alibabacloud.com/en/events/wan2-5-preview-launch?_p_lc=1">Wan2.5</a></strong> is launched, the Chinese first commercial-grade video-audio genation model with the native multimodal backbone. </li>
-        <li>[2025/09] &nbsp; Wan models have generated <strong>70+ million</strong> videos online and <strong>40+ million</strong> open-source model downloads.</li>
+        <li> [2025/09] &nbsp; <strong><a href="https://www.alibabacloud.com/en/events/wan2-5-preview-launch?_p_lc=1">Wan2.5</a></strong> is launched, the Chinese first commercial-grade video-audio genation model with the native multimodal backbone! </li>
+        <li>[2025/09] &nbsp; Wan models have generated <strong>70+ million</strong> videos online and <strong>40+ million</strong> open-source model downloads!</li>
         <li> [2025/09] &nbsp; Four papers are accepted to NeurIPS 2025!</li>
         <li> [2025/08] &nbsp; <strong><a href="https://arxiv.org/abs/2503.02783">Target-DPO</a></strong> is accepted to EMNLP 2025 Main Conference!</li>
         <li>[2025/07] &nbsp; <strong><a href="https://github.com/Wan-Video/Wan2.2">Wan2.2</a></strong> is open-sourced. New MoE architecture with cinematic-level aesthetics!</li>
