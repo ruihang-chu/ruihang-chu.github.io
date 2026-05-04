@@ -25,7 +25,7 @@ I work on Generative AI and Computer Vision. My long-term goal is to **enable mo
 - 🎬 **Video generation**: Pre- and post-training of foundation models, native multimodal architecture, controllable generation, and AR models.
 - 🧾 **Multimodal language models**: VLMs, coding LLMs, and multimodal captioning.
 
-We have developed world-leading video generative foundation models Wan, now including [Wan2.1](https://github.com/Wan-Video/Wan2.1), [Wan2.2](https://github.com/Wan-Video/Wan2.2), [Wan2.5](https://wan.video/) and [Wan2.6](https://wan.video/). Welcome to to try it online, call our APIs, or download the open-source models. 
+We have developed world-leading video generative foundation models Wan, now including [Wan2.1](https://github.com/Wan-Video/Wan2.1), [Wan2.2](https://github.com/Wan-Video/Wan2.2), [Wan2.5](https://wan.video/), [Wan2.6](https://wan.video/introduction/wan2.6), and [Wan2.7](https://wan.video/). Welcome to to try it online, call our APIs, or download the open-source models. 
 
 If you are interested in collaboration, feel free to drop me an email.
 
@@ -42,6 +42,10 @@ If you are interested in collaboration, feel free to drop me an email.
     background-color: #fafafa;
 ">
     <ul style="margin:0; padding-left: 20px;">
+        <li> [2026/04] &nbsp; <strong><a href="https://wan.video/">Wan2.7</a></strong> is launched! New features: Controllable video storytelling (editing, generation, cloning, restyling, continuation, and more)!</li>
+        <li> [2026/04] &nbsp; S2L-PO is accepted to ICML 2026!</li>
+        <li> [2026/03] &nbsp; <strong><a href="https://ai.nejm.org/doi/abs/10.1056/AIoa2500799">ChexGen</a></strong> is accepted to NEJM AI!</li>
+        <li> [2026/01] &nbsp; Six papers are accepted to ICLR 2026, with <strong><a href="https://arxiv.org/abs/2509.24695">SANA-Video</a></strong> and <strong><a href="https://arxiv.org/abs/2510.13804">OmniVerifier</a></strong> as Oral!</li>
         <li> [2025/12] &nbsp; <strong><a href="https://www.alibabacloud.com/en/press-room/alibaba-unveils-wan2-6-series-enabling-everyone?_p_lc=1">Wan2.6</a></strong> is launched. New features: Starring (role-to-video), multi-shot generation, 15s generation length!</li>
         <li> [2025/12] &nbsp; <strong><a href="https://huggingface.co/papers/2512.08765">Wan-Move</a></strong> tops Hugging Face Weekly Papers (Dec 7–13)!</li>
         <li> [2025/12] &nbsp; <strong><a href="https://arxiv.org/abs/2403.18814">Mini-Gemini</a></strong> is accepted to T-PAMI!</li>
@@ -88,6 +92,8 @@ If you are interested in collaboration, feel free to drop me an email.
 - **Wan2.2**: MoE architecture, cinematic-level aesthetics, hybrid TI2V.
 - **Wan2.5**: audio-visual sync, native multimodal structure.
 - **Wan2.6**: role-to-video, multi-shot generation.
+- **Wan2.7**: Full-stack creative toolkit.
+
 
 </div>
 </div>
@@ -129,7 +135,7 @@ If you are interested in collaboration, feel free to drop me an email.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='https://github.com/yukang2017/yukang2017.github.io/raw/main/images/longlive-logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='https://github.com/yukang2017/yukang2017.github.io/raw/main/images/longlive-logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**LongLive: Real-time Interactive Long Video Generation**](https://arxiv.org/abs/2509.22622) 
@@ -150,7 +156,7 @@ Shuai Yang, Wei Huang, **Ruihang Chu**, Yicheng Xiao, Yuyang Zhao, Xianbang Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/sana-video.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Oral</div><img src='images/sana-video.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer**](https://arxiv.org/abs/2509.24695) 
