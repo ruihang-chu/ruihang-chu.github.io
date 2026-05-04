@@ -199,6 +199,7 @@ Junsong Chen, Yuyang Zhao, Jincheng Yu, **Ruihang Chu**, Junyu Chen, Shuai Yang,
 - **[SANA-Video](https://arxiv.org/abs/2509.24695)** was reported by tech media **[新智元](https://mp.weixin.qq.com/s/nh6Q11jSGMFGT8L2SnhM5Q)**.
 - **[Mini-Gemini](https://arxiv.org/abs/2403.18814)** was reported by tech media **[新智元](https://mp.weixin.qq.com/s/TMjM7tSqHucgMlVluVvRbA)** and **[量子位](https://mp.weixin.qq.com/s/y-haZkWTBySxDDy-1gdmmw)**.
 - The **[Survey](https://arxiv.org/abs/2312.11562)** was reported by tech media **[新智元](https://mp.weixin.qq.com/s/XKlNjM1gv99TTuyl5tvt5Q)**.
+- Algorithm presentations in the official release livestreams of Wan2.2, Wan2.5, Wan2.6, and Wan2.7.
 - Invited **[talk](https://www.bilibili.com/video/BV1uZ421Y7Ko/)** by GAMES Webinar.
 
 # 📋 Academic Services
